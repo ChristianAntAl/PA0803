@@ -1,0 +1,4 @@
+p == &i;            //retorna o valor 1.
+*p - *q;            //retorna o valor -2.
+**&p;               //retorna o valor 3.
+3 - *p/(*q) + 7;    //retorna o valor 10.  
