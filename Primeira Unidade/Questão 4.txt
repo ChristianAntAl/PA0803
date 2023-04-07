@@ -1,0 +1,25 @@
+/* (a) */    //Retorna 20
+
+/* (b) */    //Retorna 29.0
+   
+/* (c) */    //Retorna "P"
+
+/* (d) */    //Retorna "e"
+ 
+/* (e) */    //Retorna "P"
+  
+/* (f) */    //Retorna uma linha em branco
+ 
+/* (g) */    //Retorna uma linha em branco
+
+/* (h) */    //Retorna 31
+  
+/* (i) */    //Retorna o endereço de idade
+ 
+/* (j) */    //Retorna o endereço de idade
+  
+/* (l) */    //Retorna o endereço de idade
+  
+/* (m) */    //Retorna o endereço da variavel vetor - 1
+  
+/* (n) */    //Retorna o endereço de p5

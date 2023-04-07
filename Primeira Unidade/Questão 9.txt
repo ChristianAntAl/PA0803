@@ -1,0 +1,19 @@
+Se x for declarado com char:
+x+1 será 4093;
+x+2 será 4094;
+x+3 será 4095.
+
+Se x for declarado como int:
+x+1 será 4094;
+x+2 será 4096;
+x+3 será 4098.
+
+Se x for declarado como float:
+x+1 será 4096;
+x+2 será 4100;
+x+3 será 4104.
+
+Se x for declarado como double:
+x+1 será 4100;
+x+2 será 4108;
+x+3 será 4116.

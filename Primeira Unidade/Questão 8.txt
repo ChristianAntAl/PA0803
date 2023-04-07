@@ -1,0 +1,2 @@
+O primeiro programa retorna os valores dos elementos 0, 1 e 2 do vetor vet.
+O segundo programa retorna os endereços dos elementos 0, 1 e 2 do vetor vet.

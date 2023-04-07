@@ -1,0 +1,2 @@
+p = mat + 1;   //Nessa expressão a variavel "p" está guardando o endereço do segundo elemento do vetor mat
+x = (*mat)++;  //Nessa expressão está sendo incrementado 1 no endereço do primeiro elemento de mat
