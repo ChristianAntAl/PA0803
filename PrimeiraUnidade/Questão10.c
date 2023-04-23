@@ -1,3 +1,4 @@
+#include <stdio.h>
 int main(void){
   char x[4];
   int y[4];
