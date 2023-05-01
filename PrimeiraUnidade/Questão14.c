@@ -20,7 +20,7 @@ int main() {
   // Alocação de memória para guardar os valores
     valores = (float*) malloc(n * sizeof(float));
 
-    // Solicita os valores ao usuário
+    // Recebe os valores.
     printf("Digite os valores a serem ordenados: ");
     for (int i = 0; i < n; i++) {
       scanf("%f", &valores[i]);
