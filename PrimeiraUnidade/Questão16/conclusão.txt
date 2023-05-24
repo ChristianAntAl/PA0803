@@ -1,0 +1,2 @@
+Medindo o tempo dos dois programas, conlcui que são bem parecidos
+com o segundo sendo um pouco maior que o primeiro.
